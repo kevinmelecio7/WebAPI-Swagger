@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Cors;
 
 namespace WebAPI.Controllers
 {
+    //cambios para
     [EnableCors("ReglasCors")]
     [Route("api/[controller]")]
     [ApiController]
